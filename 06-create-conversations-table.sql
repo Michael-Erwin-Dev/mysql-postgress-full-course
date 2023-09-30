@@ -4,4 +4,3 @@ CREATE TABLE conversations (
     message TEXT,
     date_sent TIMESTAMP
 );
-```
